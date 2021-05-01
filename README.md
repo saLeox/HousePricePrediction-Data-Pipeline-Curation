@@ -25,7 +25,7 @@
  ### 4. Serving Layer
  
  - Load the ML model inside [SpringBoot application](https://github.com/saLeox/HousePricePrediction-ServingAPI) to provide prediction function.
- - Provide [interactive query](https://github.com/saLeox/HousePricePrediction-Streaming-Data-Pipeline/blob/main/src/main/java/com/gof/springcloud/streams/query/InteractiveQueryController.java) based Kafka Timewindow Streaming.
+ - Provide [interactive query](https://github.com/saLeox/HousePricePrediction-Streaming-Data-Pipeline/blob/main/src/main/java/com/gof/springcloud/streams/query/InteractiveQueryController.java) based on Kafka Timewindow Streaming.
 
 ## Limitation and Future Enhancement
 
