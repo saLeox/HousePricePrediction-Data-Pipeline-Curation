@@ -1,10 +1,11 @@
 
+
 # HousePricePrediction-Data-Pipeline-Curation
 
 
 ## Architecture Overview
 
-![](https://raw.githubusercontent.com/saLeox/photoHub/main/20210501101750.png)
+![](https://raw.githubusercontent.com/saLeox/photoHub/main/1621223014.jpg)
 
 ### 1. Ingest Layer
  
