@@ -1,6 +1,6 @@
 
 
-# HousePricePrediction-Data-Pipeline-Curation
+# Lambda-Architecture-BigData-Pipeline-Curation
 
 
 ## Architecture Overview
